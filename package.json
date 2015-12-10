@@ -1,0 +1,22 @@
+{
+  "name": "node-awesome",
+  "version": "1.0.0",
+  "description": "Trying new stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shankarpshetty/node-awesome.git"
+  },
+  "author": "Shankar Shetty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shankarpshetty/node-awesome/issues"
+  },
+  "homepage": "https://github.com/shankarpshetty/node-awesome#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
